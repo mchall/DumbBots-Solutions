@@ -2,7 +2,7 @@
 These are solution scripts for my game DumbBots
 
 Installation instructions:
-* Copy the scripts you want to "<DumbBots Install Path>\DumbBots_Data\user\scripts" folder
+* Copy the scripts you want to "\<DumbBots Install Path>\DumbBots_Data\user\scripts" folder
   * NOTE: copy the scripts only, not the folders
 * Open DumbBots
 * Load the scenario
